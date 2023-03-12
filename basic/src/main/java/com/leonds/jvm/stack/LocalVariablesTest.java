@@ -1,6 +1,7 @@
 package com.leonds.jvm.stack;
 
 /**
+ * 局部变量表
  * @author Leon
  */
 public class LocalVariablesTest {
